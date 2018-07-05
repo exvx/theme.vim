@@ -30,7 +30,7 @@ hi VertSplit                          cterm=reverse term=reverse
 hi Visual       ctermbg=4  ctermfg=15               term=reverse
 " Cursor
 hi CursorColumn ctermbg=8  ctermfg=15
-hi CursorLine   ctermbg=8  ctermfg=15
+hi CursorLine   ctermbg=8  ctermfg=15 cterm=NONE    term=NONE
 " Diff
 hi DiffAdd      ctermbg=12                          term=bold
 hi DiffChange   ctermbg=13                          term=bold
