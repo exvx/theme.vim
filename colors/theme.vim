@@ -45,8 +45,8 @@ hi WarningMsg   ctermbg=11 ctermfg=0  cterm=bold    term=bold
 hi IncSearch    ctermbg=0  ctermfg=12
 hi Search       ctermbg=0  ctermfg=12
 " Status
-hi StatusLine   ctermbg=0  ctermfg=8  cterm=NONE    term=NONE
-hi StatusLineNC ctermbg=0  ctermfg=7
+hi StatusLine   ctermbg=8  ctermfg=0  cterm=NONE    term=NONE
+hi StatusLineNC ctermbg=8  ctermfg=0  cterm=NONE    term=NONE
 hi WildMenu     ctermbg=15 ctermfg=3
 
 " Colors for syntax highlighting
