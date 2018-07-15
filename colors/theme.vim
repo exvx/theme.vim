@@ -47,7 +47,7 @@ hi Search       ctermbg=0  ctermfg=12
 " Status
 hi StatusLine   ctermbg=8  ctermfg=0  cterm=NONE    term=NONE
 hi StatusLineNC ctermbg=8  ctermfg=0  cterm=NONE    term=NONE
-hi WildMenu     ctermbg=15 ctermfg=3
+hi WildMenu     ctermbg=7  ctermfg=0  cterm=bold    term=bold
 
 " Colors for syntax highlighting
 
