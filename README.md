@@ -1,3 +1,3 @@
 # `theme.vim`
 
-Syntax highlighting has gone too far. A theme that doesn't.
+Syntax highlighting has gone too far. A vim colorscheme that doesn't.
